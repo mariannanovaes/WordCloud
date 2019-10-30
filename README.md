@@ -15,3 +15,5 @@ Dataset: [wine review dataset](https://www.kaggle.com/zynicide/wine-reviews/data
 - pillow
 
 - wordcloud (pip install wordcloud or conda install -c conda-forge wordcloud)
+
+Tutorial: https://www.datacamp.com/community/tutorials/wordcloud-python
