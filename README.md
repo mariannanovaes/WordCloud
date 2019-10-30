@@ -2,11 +2,16 @@
 
 WordCloud or Tag Cloud represents the frequency or the importance of each word. 
 
-Dataset: [Wine](https://www.winemag.com/?s=&drink_type=wine)
+Dataset: [wine review dataset](https://www.kaggle.com/zynicide/wine-reviews/data)
 
 **Prerequisites:**
-numpy
-pandas
-matplotlib
-pillow
-wordcloud
+
+- numpy
+
+- pandas
+
+- matplotlib
+
+- pillow
+
+- wordcloud (pip install wordcloud or conda install -c conda-forge wordcloud)
